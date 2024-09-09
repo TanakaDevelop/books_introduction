@@ -19,4 +19,35 @@ Springの内容をマスターしたい人向け
 
 <img src="./images/spring/Spring徹底入門 第2版 Spring FrameworkによるJavaアプリケーション.png" width="200">
 
+## Java
+
+### [■Effective Java 第3版 ](https://www.amazon.co.jp/dp/4621303252)
+
+
+レベル：中級者向け  
+Javaプログラミングに関するステップレベルでの実装パターン、ベストプラクティス、ガイドラインで一段階上に行く開発者に必読の本
+
+<img src="./images/Java/Effective Java 第3版 .png" width="200">
+
+
+## GO
+
+### [■初めてのGo言語 ―他言語プログラマーのためのイディオマティックGo実践ガイド ](https://www.amazon.co.jp/dp/4814400047)
+
+
+レベル：初心者向け  
+初めてGoを触る人向けで基本的な文法を学べる
+
+<img src="./images/go/初めてのGo言語 ―他言語プログラマーのためのイディオマティックGo実践ガイド.png" width="200">
+
+## JavaScript
+
 ## Python
+
+## アーキテクチャ
+
+## GIT
+
+## Docker
+
+## AWS
