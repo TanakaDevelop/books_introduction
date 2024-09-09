@@ -38,7 +38,7 @@ Javaプログラミングに関するステップレベルでの実装パター�
 レベル：初心者向け  
 初めてGoを触る人向けで基本的な文法を学べる
 
-<img src="./images/go/初めてのGo言語 ―他言語プログラマーのためのイディオマティックGo実践ガイド.png" width="200">
+<img src="./images/go/初めてのGo言語.png" width="200">
 
 ## JavaScript
 
