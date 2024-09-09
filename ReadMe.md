@@ -27,7 +27,7 @@ Springの内容をマスターしたい人向け
 レベル：中級者向け  
 Javaプログラミングに関するステップレベルでの実装パターン、ベストプラクティス、ガイドラインで一段階上に行く開発者に必読の本
 
-<img src="./images/Java/Effective Java 第3版 .png" width="200">
+<img src="./images/java/Effective Java 第3版.png" width="200">
 
 
 ## GO
