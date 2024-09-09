@@ -25,9 +25,20 @@ Springの内容をマスターしたい人向け
 
 
 レベル：中級者向け  
-Javaプログラミングに関するステップレベルでの実装パターン、ベストプラクティス、ガイドラインで一段階上に行く開発者に必読の本
+Javaプログラミングに関するステップレベルでの実装パターン、ベストプラクティス、ガイドラインで一段階上に行く開発者に必読の本  
 
 <img src="./images/java/Effective Java 第3版.png" width="200">
+
+
+### [■Java言語で学ぶデザインパターン入門第3版 ](https://www.amazon.co.jp/dp/4815609802)
+
+
+レベル：中級者向け  
+オブジェクト指向プログラミングにおいて古典的な23個のデザインパターン記載した本
+以下の基本的なパターンは押さえておきたい  
+Singleton、Factory Method、Observer、Strategy、Adapter、Decorator、Command
+
+<img src="./images/java/Java言語で学ぶデザインパターン入門第3版.png" width="200">
 
 
 ## GO
