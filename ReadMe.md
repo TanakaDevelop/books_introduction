@@ -1,14 +1,12 @@
 # 書籍一覧
 
-# 目次
+## 目次
 1. [Springフレームワーク](#Springフレームワーク)
 2. [Java](#Java)
 
 ## Springフレームワーク
 
 ### [■プロになるためのSpring入門ーーゼロからの開発力養成講座](https://www.amazon.co.jp/dp/4297136139)
-
-
 レベル：初心者向け  
 初学者では内容が難しいところもあるが現場ではすべて必須レベルの知識のため是非学習してほしい
 
@@ -16,8 +14,6 @@
 
 
 ### [■Spring徹底入門 第2版 Spring FrameworkによるJavaアプリケーション](https://www.amazon.co.jp/dp/479818134X)
-
-
 レベル：中級者向け  
 Springの内容をマスターしたい人向け
 
@@ -26,8 +22,6 @@ Springの内容をマスターしたい人向け
 ## Java
 
 ### [■Effective Java 第3版 ](https://www.amazon.co.jp/dp/4621303252)
-
-
 レベル：中級者向け  
 Javaプログラミングに関するステップレベルでの実装パターン、ベストプラクティス、ガイドラインで一段階上に行く開発者に必読の本  
 
@@ -35,8 +29,6 @@ Javaプログラミングに関するステップレベルでの実装パター�
 
 
 ### [■Java言語で学ぶデザインパターン入門第3版 ](https://www.amazon.co.jp/dp/4815609802)
-
-
 レベル：中級者向け  
 オブジェクト指向プログラミングにおいて古典的な23個のデザインパターン記載した本
 以下の基本的なパターンは押さえておきたい  
@@ -46,9 +38,7 @@ Singleton、Factory Method、Observer、Strategy、Adapter、Decorator、Command
 
 
 ### [■JUnit実践入門 ](https://www.amazon.co.jp/dp/477415377X)
-
-
-レベル：初心者向け
+レベル：初心者向け  
 Javaでユニットテストの実施方法が記載されている。
 内容が少し古く、バージョンがJunit4のものとなるためJunit5を学びたい人向けではない。
 
@@ -59,8 +49,6 @@ Javaでユニットテストの実施方法が記載されている。
 ## GO
 
 ### [■初めてのGo言語 ―他言語プログラマーのためのイディオマティックGo実践ガイド ](https://www.amazon.co.jp/dp/4814400047)
-
-
 レベル：初心者向け  
 初めてGoを触る人向けで基本的な文法を学べる
 
@@ -71,8 +59,6 @@ Javaでユニットテストの実施方法が記載されている。
 ## Python
 
 ### [■Python実践入門 ](https://www.amazon.co.jp/dp/429711111X)
-
-
 レベル：初心者向け  
 初めてPythonを触る人向け
 
@@ -80,6 +66,21 @@ Javaでユニットテストの実施方法が記載されている。
 
 
 ## アーキテクチャ
+
+### [■ドメイン駆動設計入門 ](https://www.amazon.co.jp/dp/B082WXZVPC)
+レベル：初心者向け  
+初めてDDD触る人向け。初心者にもわかりやすく書いてある。
+
+<img src="./images/アーキテクチャ/ドメイン駆動設計入門.png" width="200">
+
+
+## 開発関連
+
+### [■Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考 ](https://www.amazon.co.jp/dp/B0BSW72QKZ)
+レベル：中級者向け  
+きれいなコードが書きたい人に。
+
+<img src="./images/開発関連/Good Code, Bad Code.png" width="200">
 
 ## GIT
 
