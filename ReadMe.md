@@ -86,4 +86,18 @@ Javaでユニットテストの実施方法が記載されている。
 
 ## Docker
 
+### [■開発系エンジニアのためのDocker絵とき入門 ](https://www.amazon.co.jp/dp/B0CSFF6QYD)
+レベル：初心者向け  
+分かりやすく初心者にお勧めらしい。
+
+<img src="./images/docker/開発系エンジニアのためのDocker絵とき入門.png" width="200">
+
+
+### [■仕組みと使い方がわかる Docker&Kubernetesのきほんのきほん ](https://www.amazon.co.jp/dp/4839972745)
+レベル：初心者向け  
+初めて触る人にいいかも。かなり丁寧に書いてある。
+
+<img src="./images/docker/仕組みと使い方がわかる Docker&Kubernetesのきほんのきほん.png" width="200">
+
+
 ## AWS
