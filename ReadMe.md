@@ -42,8 +42,15 @@ Singleton、Factory Method、Observer、Strategy、Adapter、Decorator、Command
 Javaでユニットテストの実施方法が記載されている。
 内容が少し古く、バージョンがJunit4のものとなるためJunit5を学びたい人向けではない。
 
-
 <img src="./images/java/JUnit実践入門.png" width="200">
+
+
+### [■Javaエンジニアのための ソフトウェアテスト実践入門　～自動化と生成AIによるモダンなテスト技法 ](https://www.amazon.co.jp/dp/4297144352)
+レベル：初心者向け  
+Javaでユニットテストの実施方法が記載されている。
+こちらはJUnit 5ベースで記述されており、Junitを実装したことない人にお勧め。
+
+<img src="./images/java/Javaエンジニアのための ソフトウェアテスト実践入門.png" width="200">
 
 
 ## GO
@@ -54,6 +61,13 @@ Javaでユニットテストの実施方法が記載されている。
 
 <img src="./images/go/初めてのGo言語.png" width="200">
 
+
+### [■改訂2版 基礎からわかる Go言語 ](https://www.amazon.co.jp/dp/B06WP6S2QT)
+レベル：初心者向け  
+こちらも初めてGoを触る人向けで基本的な文法を学べる。電子書籍しかなかった気がする。
+
+<img src="./images/go/改訂2版 基礎からわかる Go言語.png" width="200">
+
 ## JavaScript
 
 ## Python
@@ -63,6 +77,34 @@ Javaでユニットテストの実施方法が記載されている。
 初めてPythonを触る人向け
 
 <img src="./images/python/Python実践入門.png" width="200">
+
+### [■テスト駆動Python 第2版  ](https://www.amazon.co.jp/dp/4798177458)
+レベル：中級者向け  
+Pythonのユニットテストについて記載されている。
+
+<img src="./images/python/テスト駆動Python.png" width="200">
+
+## テスト関連
+
+### [■知識ゼロから学ぶソフトウェアテスト 第3版 アジャイル・AI時代の必携教科書](https://www.amazon.co.jp/dp/4798182435)
+レベル：初心者向け  
+ソフトウェアテストについて初めて対応する人向けの本。
+
+<img src="./images/テスト関連/知識ゼロから学ぶソフトウェアテスト.png" width="200">
+
+
+### [■【この1冊でよくわかる】ソフトウェアテストの教科書　［増補改訂 第２版］ ](https://www.amazon.co.jp/dp/B093Q13V96)
+レベル：初心者向け  
+ソフトウェアテストの技法として同値分割テスト・境界値テスト、ディシジョンテーブルの書き方などテストに関して基礎的なことが書いている。
+
+<img src="./images/テスト関連/ソフトウェアテストの教科書.png" width="200">
+
+
+### [■土台からしっかり学ぶーーソフトウェアテストのセオリー](https://www.amazon.co.jp/dp/4865943625)
+レベル：初心者向け  
+こちらも同様にソフトウェアテストについて記載されている。
+
+<img src="./images/テスト関連/土台からしっかり学ぶーーソフトウェアテストのセオリー.png" width="200">
 
 
 ## アーキテクチャ
@@ -76,11 +118,40 @@ Javaでユニットテストの実施方法が記載されている。
 
 ## 開発関連
 
+### [■リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)  ](https://www.amazon.co.jp/dp/4873115655)
+レベル：初心者向け  
+可読性の良いコードを記載するための書籍。初めて実装する人は読んでおきたい。
+
+<img src="./images/開発関連/リーダブルコード.png" width="200">
+
+
 ### [■Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考 ](https://www.amazon.co.jp/dp/B0BSW72QKZ)
 レベル：中級者向け  
-きれいなコードが書きたい人に。
+きれいなコードが書きたい人に。リーダブルコードより実践的に記載されている。
 
 <img src="./images/開発関連/Good Code, Bad Code.png" width="200">
+
+### [■なぜ依存を注入するのか　DIの原理・原則とパターン ](https://www.amazon.co.jp/dp/4839983062)
+レベル：上級者向け  
+依存と注入について細かく書かれている。
+
+<img src="./images/開発関連/なぜ依存を注入するのか　DIの原理・原則とパターン.png" width="200">
+
+
+## アジャイル
+
+### [■SCRUM BOOT CAMP THE BOOK【増補改訂版】 スクラムチームではじめるアジャイル開発 ](https://www.amazon.co.jp/dp/4798163686)
+レベル：初心者向け  
+アジャイルにて初めてスクラム開発をする人にお勧め
+
+<img src="./images/アジャイル/SCRUM BOOT CAMP THE BOOK.png" width="200">
+
+
+### [■SCRUMMASTER THE BOOK 優れたスクラムマスターになるための極意――メタスキル、学習、心理、リーダーシップ ](https://www.amazon.co.jp/dp/4798166855)
+レベル：初心者向け  
+スクラムマスターに関する書籍
+
+<img src="./images/アジャイル/SCRUMMASTER THE BOOK 優れたスクラムマスター.png" width="200">
 
 ## GIT
 
