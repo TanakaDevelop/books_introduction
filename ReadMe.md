@@ -40,15 +40,14 @@ Singleton、Factory Method、Observer、Strategy、Adapter、Decorator、Command
 ### [■JUnit実践入門 ](https://www.amazon.co.jp/dp/477415377X)
 レベル：初心者向け  
 Javaでユニットテストの実施方法が記載されている。
-内容が少し古く、バージョンがJunit4のものとなるためJunit5を学びたい人向けではない。
+内容が少し古く、バージョンがJunit4のものとなる。
 
 <img src="./images/java/JUnit実践入門.png" width="200">
 
 
 ### [■Javaエンジニアのための ソフトウェアテスト実践入門　～自動化と生成AIによるモダンなテスト技法 ](https://www.amazon.co.jp/dp/4297144352)
 レベル：初心者向け  
-Javaでユニットテストの実施方法が記載されている。
-こちらはJUnit 5ベースで記述されており、Junitを実装したことない人にお勧め。
+こちらはJUnit 5ベースで記述されている。
 
 <img src="./images/java/Javaエンジニアのための ソフトウェアテスト実践入門.png" width="200">
 
