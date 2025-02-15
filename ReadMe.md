@@ -3,6 +3,10 @@
 ## 目次
 1. [Springフレームワーク](#Springフレームワーク)
 2. [Java](#Java)
+3. [GO](#GO)
+4. [JavaScript](#JavaScript)
+5. [Python](#Python)
+6. [テスト関連](#テスト関連)
 
 ## Springフレームワーク
 
@@ -115,6 +119,11 @@ Pythonのユニットテストについて記載されている。
 <img src="./images/アーキテクチャ/ドメイン駆動設計入門.png" width="200">
 
 
+### [■手を動かしてわかるクリーンアーキテクチャ ](https://www.amazon.co.jp/dp/429501978X)
+
+<img src="./images/アーキテクチャ/手を動かしてわかるクリーンアーキテクチャ.png" width="200">
+
+
 ## 開発関連
 
 ### [■リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)  ](https://www.amazon.co.jp/dp/4873115655)
@@ -154,6 +163,11 @@ Pythonのユニットテストについて記載されている。
 
 ## GIT
 
+### [■GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用 ](https://www.amazon.co.jp/dp/4297141736)
+
+<img src="./images/GIT/GitHub CI/CD実践ガイド――持続可能なソフトウェア開発を支えるGitHub Actionsの設計と運用.png" width="200">
+
+
 ## Docker
 
 ### [■開発系エンジニアのためのDocker絵とき入門 ](https://www.amazon.co.jp/dp/B0CSFF6QYD)
@@ -171,3 +185,16 @@ Pythonのユニットテストについて記載されている。
 
 
 ## AWS
+
+
+## web系
+
+### [■［改訂新版］プロになるためのWeb技術入門 ](https://www.amazon.co.jp/dp/4297145715)
+
+<img src="./images/web系/［改訂新版］プロになるためのWeb技術入門.png" width="200">
+
+### その他
+
+### [■エンジニアが一生困らない ドキュメント作成の基本](https://www.amazon.co.jp/dp/4802614845)
+
+<img src="./images/その他/エンジニアが一生困らない ドキュメント作成の基本.png" width="200">
