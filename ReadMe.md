@@ -7,6 +7,13 @@
 4. [JavaScript](#JavaScript)
 5. [Python](#Python)
 6. [テスト関連](#テスト関連)
+7. [アーキテクチャ](#アーキテクチャ)
+8. [開発関連](#開発関連)
+9. [アジャイル](#アジャイル)
+10. [GIT](#GIT)
+11. [Docker](#Docker)
+12. [web系](#web系)
+13. [その他](#その他)
 
 ## Springフレームワーク
 
@@ -89,6 +96,12 @@ Pythonのユニットテストについて記載されている。
 
 ## テスト関連
 
+### [■単体テストの考え方](https://www.amazon.co.jp/dp/4839981728)
+レベル：中級者向け  
+
+<img src="./images/テスト関連/単体テストの考え方.png" width="200">
+
+
 ### [■知識ゼロから学ぶソフトウェアテスト 第3版 アジャイル・AI時代の必携教科書](https://www.amazon.co.jp/dp/4798182435)
 レベル：初心者向け  
 ソフトウェアテストについて初めて対応する人向けの本。
@@ -125,6 +138,12 @@ Pythonのユニットテストについて記載されている。
 
 
 ## 開発関連
+
+### [■良いコード／悪いコードで学ぶ設計入門 ](https://www.amazon.co.jp/dp/4297146223)
+レベル：中級者向け
+
+<img src="./images/開発関連/良いコード／悪いコードで学ぶ設計入門.png" width="200">
+
 
 ### [■リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)  ](https://www.amazon.co.jp/dp/4873115655)
 レベル：初心者向け  
@@ -188,6 +207,11 @@ Pythonのユニットテストについて記載されている。
 
 
 ## web系
+
+### [■Webを支える技術 -HTTP、URI、HTML、そしてREST ](https://www.amazon.co.jp/dp/4774142042)
+
+<img src="./images/web系/Webを支える技術 -HTTP、URI、HTML、そしてREST.png" width="200">
+
 
 ### [■［改訂新版］プロになるためのWeb技術入門 ](https://www.amazon.co.jp/dp/4297145715)
 
